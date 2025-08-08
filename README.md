@@ -36,6 +36,11 @@ powerbi-adventureworks2022/
 
 ![Dashboard Preview](docs/preview.png)
 
+![Dashboard Preview](docs/product_detail.png)
+
+![Dashboard Preview](docs/sales_person.png)
+
+
 ---
 
 ## Key Features
